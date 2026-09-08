@@ -1,0 +1,9 @@
+{
+  "name": "lipay-payment-final-prototype",
+  "version": "5.3.0",
+  "private": true,
+  "description": "LiPay 5.3 advanced continuous trust payment security prototype",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
